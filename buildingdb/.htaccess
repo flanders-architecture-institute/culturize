@@ -1,7 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-
-RewriteRule ^1$ https://www.vai.be/nl/project/uit-het-architectuurboek-ndeg10-cultuurcentrum-c-mine-genk [R=302,NC,NE,L]
-RewriteRule ^2$ https://www.vai.be/nl/project/kavelwoning-meulesteedsesteenweg-49-gent [R=302,NC,NE,L]
-RewriteRule ^3$ https://www.vai.be/nl/project/stam [R=302,NC,NE,L]
-RewriteRule ^4$ https://www.vai.be/nl/project/150kv15kv-hs-cabine-petrol-antwerpen [R=302,NC,NE,L]
