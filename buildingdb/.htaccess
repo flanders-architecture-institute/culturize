@@ -45,7 +45,7 @@ RewriteRule ^156421$ https://www.vai.be/gebouwen/eensgezinswoning/uitbreiding-wo
 RewriteRule ^156517$ https://www.vai.be/gebouwen/onderwijsinfrastructuur/freinetschool-de-k-ring-berchem [R=302,NC,NE,L]
 RewriteRule ^155801$ https://www.vai.be/gebouwen/zorginfrastructuur/woonzorgcentrum-amphora-wingene [R=302,NC,NE,L]
 RewriteRule ^156775$ https://www.vai.be/gebouwen/groepswoningen/groepswoningen-kaai37-antwerpen [R=302,NC,NE,L]
-RewriteRule ^156816$ https://www.vai.be/gebouwen/verdickt-verdickt-parkloods-publieke-gebouwen/center-for-openness-and-dialogue-tirana-albanië [R=302,NC,NE,L]
+RewriteRule ^156816$ https://www.vai.be/gebouwen/publieke-gebouwen/center-for-openness-and-dialogue-tirana-albanië [R=302,NC,NE,L]
 RewriteRule ^156877$ https://www.vai.be/gebouwen/zorginfrastructuur/stadsblok-cadiz-antwerpen [R=302,NC,NE,L]
 RewriteRule ^157099$ https://www.vai.be/gebouwen/andere/metrostation-maalbeek-brussel [R=302,NC,NE,L]
 RewriteRule ^157165$ https://www.vai.be/gebouwen/jeugdinfrastructuur/trefcentrum-bergsken-moorsel [R=302,NC,NE,L]
