@@ -32,7 +32,7 @@ RewriteRule ^160866$ https://www.vai.be/gebouwen/jeugdinfrastructuur/bezoekersce
 RewriteRule ^156454$ https://www.vai.be/gebouwen/andere/mosterdfabriek-camps-oudenaarde [R=302,NC,NE,L]
 RewriteRule ^156248$ https://www.vai.be/gebouwen/sportinfrastructuur/scholencampus-beringen [R=302,NC,NE,L]
 RewriteRule ^156362$ https://www.vai.be/gebouwen/publieke-ruimte/tractiestations-brabo-2-antwerpen [R=302,NC,NE,L]
-RewriteRule ^157072$ https://www.vai.be/gebouwen/verdickt-verdickt-parkloods-publieke-gebouwen/stadsbibliotheek-waregem [R=302,NC,NE,L]
+RewriteRule ^157072$ https://www.vai.be/gebouwen/publieke-gebouwen/stadsbibliotheek-waregem [R=302,NC,NE,L]
 RewriteRule ^156673$ https://www.vai.be/gebouwen/cultuurinfrastructuur/prentenkabinet-plantin-moretus-antwerpen [R=302,NC,NE,L]
 RewriteRule ^156213$ https://www.vai.be/gebouwen/publieke-gebouwen/uitkijktoren-negenoord-dilsen-stokkem [R=302,NC,NE,L]
 RewriteRule ^155865$ https://www.vai.be/gebouwen/cultuurinfrastructuur/mad-fashion-and-design-platform-brussel [R=302,NC,NE,L]
