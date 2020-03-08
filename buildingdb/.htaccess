@@ -14,7 +14,7 @@ RewriteRule ^155997$ gebouwen/zorginfrastructuur/jeugdlokalen-en-kinderopvang-ou
 RewriteRule ^156485$ gebouwen/sportinfrastructuur/ontmoetingsgebouw-de-rhille-diksmuide [R=302,NC,NE,L]
 RewriteRule ^156742$ gebouwen/onderwijsinfrastructuur/onderzoekscentrum-ecotron-maasmechelen [R=302,NC,NE,L]
 RewriteRule ^155715$ gebouwen/zorginfrastructuur/woonzorgcentrum-gza-kiel-antwerpen [R=302,NC,NE,L]
-RewriteRule ^155743$ gebouwen/verdickt-verdickt-parkloods-publieke-ruimte/waterfront-promenade-vlora-albani� [R=302,NC,NE,L]
+RewriteRule ^155743$ gebouwen/publieke-ruimte/waterfront-promenade-vlora-albani� [R=302,NC,NE,L]
 RewriteRule ^155771$ gebouwen/verdickt-verdickt-parkloods-publieke-ruimte/skanderbeg-plein-tirana-albani� [R=302,NC,NE,L]
 RewriteRule ^156181$ gebouwen/verdickt-verdickt-parkloods-publieke-gebouwen/stadsbibliotheek-de-krook-gent [R=302,NC,NE,L]
 RewriteRule ^156029$ gebouwen/groepswoningen/renovatie-panden-leysstraat-antwerpen [R=302,NC,NE,L]
