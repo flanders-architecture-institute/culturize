@@ -384,7 +384,6 @@ RewriteRule ^194901$ https://www.vai.be/gebouwen/eensgezinswoning/woning-rust-an
 RewriteRule ^194961$ https://www.vai.be/gebouwen/kantoren-en-bedrijfsgebouwen/droogloodsen-kortrijk [R=302,NC,NE,L]
 RewriteRule ^195045$ https://www.vai.be/gebouwen/groepswoningen/gemeenschapscentrum-felix-sohie-woningen-en-politiekantoor-hoeilaart [R=302,NC,NE,L]
 RewriteRule ^195101$ https://www.vai.be/gebouwen/zorginfrastructuur/kinderdagverblijf-de-bijendans-gent [R=302,NC,NE,L]
-RewriteRule ^195168$ Domein De Hoge Rielen [R=302,NC,NE,L]
 RewriteRule ^195199$ https://www.vai.be/gebouwen/groepswoningen/militair-hospitaal-antwerpen [R=302,NC,NE,L]
 RewriteRule ^195386$ https://www.vai.be/gebouwen/publieke-gebouwen/het-huis-van-de-willebroekenaar-willebroek [R=302,NC,NE,L]
 RewriteRule ^195446$ https://www.vai.be/gebouwen/eensgezinswoning/voormalige-textielfabriek-s-a-w-waarschoot [R=302,NC,NE,L]
