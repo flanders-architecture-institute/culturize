@@ -1,6 +1,7 @@
 Options +FollowSymLinks
 RewriteEngine on
 
+RewriteRule ^493657$ https://www.vai.be/gebouwen/sportinfrastructuur/een-project-om-weg-te-gooien [R=302,NC,NE,L]
 RewriteRule ^482274$ https://www.vai.be/gebouwen/funeraire-architectuur/crematorium-stuifduin [R=302,NC,NE,L]
 RewriteRule ^155692$ https://www.vai.be/gebouwen/commerciële-gebouwen/restaurant-volta-gent [R=302,NC,NE,L]
 RewriteRule ^155705$ https://www.vai.be/gebouwen/zorginfrastructuur/ergotherapiegebouw-sint-camillus-sint-denijs-westrem [R=302,NC,NE,L]
