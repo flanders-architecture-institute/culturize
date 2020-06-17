@@ -1,6 +1,7 @@
 Options +FollowSymLinks
 RewriteEngine on
 
+RewriteRule ^535492$ https://www.vai.be/gebouwen/groepswoningen/sociale-woningen-bogerse-velden [R=302,NC,NE,L]
 RewriteRule ^535039$ https://www.vai.be/gebouwen/publieke-gebouwen/kijktoren-fondatie-van-boudelo [R=302,NC,NE,L]
 RewriteRule ^534904$ https://www.vai.be/gebouwen/publieke-gebouwen/yper-museum [R=302,NC,NE,L]
 RewriteRule ^534892$ https://www.vai.be/gebouwen/eensgezinswoning/woning-begijnhoflaan [R=302,NC,NE,L]
