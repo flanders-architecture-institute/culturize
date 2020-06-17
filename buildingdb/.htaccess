@@ -1,7 +1,16 @@
 Options +FollowSymLinks
 RewriteEngine on
 
-RewriteRule ^493657$ https://www.vai.be/gebouwen/sportinfrastructuur/een-project-om-weg-te-gooien [R=302,NC,NE,L]
+RewriteRule ^535039$ https://www.vai.be/gebouwen/publieke-gebouwen/kijktoren-fondatie-van-boudelo [R=302,NC,NE,L]
+RewriteRule ^534904$ https://www.vai.be/gebouwen/publieke-gebouwen/yper-museum [R=302,NC,NE,L]
+RewriteRule ^534892$ https://www.vai.be/gebouwen/eensgezinswoning/woning-begijnhoflaan [R=302,NC,NE,L]
+RewriteRule ^534857$ https://www.vai.be/gebouwen/zorginfrastructuur/huis-perrekes [R=302,NC,NE,L]
+RewriteRule ^534843$ https://www.vai.be/gebouwen/publieke-gebouwen/gruuthusemuseum [R=302,NC,NE,L]
+RewriteRule ^534815$ https://www.vai.be/gebouwen/publieke-gebouwen/provinciehuis [R=302,NC,NE,L]
+RewriteRule ^534662$ https://www.vai.be/gebouwen/zorginfrastructuur/woonzorgcentrum-de-drie-platanen [R=302,NC,NE,L]
+RewriteRule ^534527$ https://www.vai.be/gebouwen/cultuurinfrastructuur/atelier-pascale-marthine-tayou [R=302,NC,NE,L]
+RewriteRule ^534249$ https://www.vai.be/gebouwen/publieke-gebouwen/z33-huis-voor-actuele-kunst [R=302,NC,NE,L]
+RewriteRule ^533590$ https://www.vai.be/gebouwen/commerciële-gebouwen/bouwmaterialendorp-aan-het-vergotedok [R=302,NC,NE,L]
 RewriteRule ^482274$ https://www.vai.be/gebouwen/funeraire-architectuur/crematorium-stuifduin [R=302,NC,NE,L]
 RewriteRule ^155692$ https://www.vai.be/gebouwen/commerciële-gebouwen/restaurant-volta-gent [R=302,NC,NE,L]
 RewriteRule ^155705$ https://www.vai.be/gebouwen/zorginfrastructuur/ergotherapiegebouw-sint-camillus-sint-denijs-westrem [R=302,NC,NE,L]
