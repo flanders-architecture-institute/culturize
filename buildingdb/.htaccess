@@ -24,7 +24,6 @@ RewriteRule ^1006349$ https://www.vai.be/gebouwen/jeugdinfrastructuur/kunstencen
 RewriteRule ^1006192$ https://www.vai.be/gebouwen/eensgezinswoning/house-wadd [R=302,NC,NE,L]
 RewriteRule ^1004364$ https://www.vai.be/gebouwen/zorginfrastructuur/test4 [R=302,NC,NE,L]
 RewriteRule ^1004362$ https://www.vai.be/gebouwen/zorginfrastructuur/test3 [R=302,NC,NE,L]
-RewriteRule ^1004350$ https://www.vai.be/gebouwen/andere/test2 [R=302,NC,NE,L]
 RewriteRule ^1004342$ https://www.vai.be/gebouwen/andere/titel1 [R=302,NC,NE,L]
 RewriteRule ^956593$ https://www.vai.be/gebouwen/zorginfrastructuur/test [R=302,NC,NE,L]
 RewriteRule ^956116$ https://www.vai.be/gebouwen/groepswoningen/herontwikkeling-academiesite [R=302,NC,NE,L]
