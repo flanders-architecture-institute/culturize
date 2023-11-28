@@ -47,6 +47,7 @@ def create_culturize_htaccess(input_json, local_htaccess_path):
     for page in obj:
         pid = page.get('id')
         url = page.get('uri')
+        url = f'https://www.vai.be/{url}' # Domeinnaam toevoegen aan de URL
         htstring = f'RewriteRule ^{pid}$ {url} [R=302,NC,NE,L]'
         htstrings.append(htstring)
     
